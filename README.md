@@ -1,2 +1,2 @@
 # My-first-project
-basic registration using HTML
+basic registration page using HTML
